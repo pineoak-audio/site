@@ -1,0 +1,39 @@
+---
+date:
+  created: 2024-12-31
+  updated: 2025-03-05
+
+authors:
+  - marcel
+
+categories:
+  - News
+
+tags:
+  - new year
+  - hogmanay
+  - festive season
+
+# readtime: 15
+# pin: true
+thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
+# excerpt: "Uma descrição curta do post."
+
+# social_share: true
+# related_posts:
+#   - post-1
+#   - post-2
+#   - post-3
+---
+
+# Happy New Year's Eve!
+
+We hope you are all having fun and wish you all the best for the new year!
+<!-- more -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
+
+## Subtítulo do post
+
+Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
