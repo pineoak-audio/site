@@ -36,8 +36,6 @@ Todos os anos, a The New 8-bit Heroes, equipe que desenvolve o NESMaker, (1) rea
 
 1.  O **NESmaker** é um software para PC que permite aos usuários criar novos jogos jogáveis em hardware, baseados em cartucho, para o Nintendo Entertainment System, em um ambiente de desenvolvimento moderno. Usuários sem experiência em programação podem começar a criar seus jogos dos sonhos para o NES sem escrever uma linha de código, enquanto usuários mais avançados podem usar a cadeia de ferramentas de desenvolvimento do NESmaker, chegando até a escrever motores inteiros do zero. O NESmaker pode ajudar usuários de todos os níveis de habilidade a criar novas experiências para esse clássico sistema de jogos! Os jogos criados no NESmaker funcionarão em qualquer sistema baseado em hardware capaz de rodar jogos de NES, e em qualquer emulador de NES que suporte o mapper 30.
 
-Para ver como tudo começou, assista a "The New 8-bit Heroes", disponível na Amazon e no Vimeo.
-
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OiYsWCyUVsY?si=AWXukZt7U4mUPpK1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Neste ano, o tema foi "Find The Reason" (_Encontre o motivo_) e a razão de eu ter participado da maneira que participei foi por pura curiosidade sobre como é o processo testes e tradução.
