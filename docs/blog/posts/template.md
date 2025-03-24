@@ -1,29 +1,24 @@
 ---
 date:
-  created: 2024-12-31
+  created: 2025-03-05
   updated: 2025-03-05
-
 authors:
   - marcel
-
 categories:
   - News
-
 tags:
-  - new year
+  - new
+  - year
   - hogmanay
-  - festive season
-
-# readtime: 15
-# pin: true
+  - festive
+  - season
+readtime: 
+pin: true
 thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
-# excerpt: "Uma descrição curta do post."
-
-# social_share: true
-# related_posts:
-#   - post-1
-#   - post-2
-#   - post-3
+excerpt: Uma descrição curta do post.
+social_share: true
+related_posts:
+  - 20250305-ost-jam.md
 ---
 
 # Happy New Year's Eve!
