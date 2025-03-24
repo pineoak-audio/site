@@ -19,6 +19,7 @@ excerpt: Uma descrição curta do post.
 social_share: true
 related_posts:
   - 20250305-ost-jam.md
+draft: true
 ---
 
 # Happy New Year's Eve!

@@ -1,30 +1,25 @@
 ---
 date:
-  created: 2025-03-23
-  # updated: 2025-03-05
-
+  created: 2025-03-05
+  updated: 2025-03-05
 authors:
   - marcel
-
 categories:
   - News
-
 tags:
-  - game jam
   - byteoff
+  - nesmaker
+  - nes
   - qa
   - l18n
-
-# readtime: 15
-# pin: true
+readtime: 
+pin: true
 thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
-# excerpt: "Uma descrição curta do post."
-
-# social_share: true
-# related_posts:
-#   - post-1
-#   - post-2
-#   - post-3
+excerpt: A experiência de participar QA e Tradutor de uma game jam para jogos de NES.
+social_share: true
+related_posts:
+  - 20250305-ost-jam.md
+draft: true
 ---
 # ByteOff V - participando como tester e tradutor
 

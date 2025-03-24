@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/posts/20250323-byteoff-v-jam.md",
+                "file": "blog/posts/20250323-byteoff-v-jam.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "1819d6841ebe6935",
@@ -198,6 +197,10 @@
   },
   "active": "e5cc0f4301a6572c",
   "lastOpenFiles": [
+    "blog/posts/template.md",
+    "blog/posts/20250305-ost-jam.md",
+    "about.md",
+    "index.md",
     "docs/blog/posts/20250323-byteoff-v-jam-bug-973.gif",
     "docs/blog/posts/template.md",
     "Sem título.md",
