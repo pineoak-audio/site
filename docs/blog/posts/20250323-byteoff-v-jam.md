@@ -69,7 +69,7 @@ Criei uma estrutura simples para poder controlar se a tradução já havia sido 
 
 Organizar dessa forma foi crucial, pois a referência do texto nem sempre segue a ordem de aparição dele no jogo, logo você pode filtrar por esse campo para poder ir atrás do texto dentro do banco de texto do NESMaker.
 
-Para a criação do texto em si, utilizei uma ferramenta feita com inteligência artificial para o único propósito de me deixar visualizar se estou escrevendo além da conta:
+Para a formatação do texto em si, utilizei uma ferramenta feita com inteligência artificial para o único propósito de me deixar visualizar se estou escrevendo sem exceder os limites da caixa de texto.
 
 ![alt text](20250323-byteoff-v-jam-text.png)
 ### Limitações
@@ -77,7 +77,7 @@ Na hora de traduzir, além da barreira linguística, haviam algumas limitações
 
 - **Ausência de caracteres:** acentuados (é, í, ã, etc) e cedilha;
 - **Limites da caixa de texto:**
-	- **Horizontal:** onde só podia escrever até 18 caracteres;
+	- **Horizontal:** onde só podia escrever de 18 a 20 caracteres;
 	- **Vertical:** onde só não podia escrever demais ou o jogo ia ficar repetindo o mesmo arquivo de diálogo
 ## O que aprendi?
 
